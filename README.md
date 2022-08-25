@@ -27,5 +27,12 @@ I am
 ---
 
 
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
+
+
+
 Credit: [Mohammad Ayoub](https://github.com/MouhammadAyoub)</br>
 Last Edited on: 25/8/2022
