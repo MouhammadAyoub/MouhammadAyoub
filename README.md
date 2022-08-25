@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/mouhammad-ayoub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/mohammadayoubdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://dev.to/mouhammadayoub" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+    <a href="https://stackoverflow.com/users/19847247/mohammad-ayoub"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
     <a href="https://twitter.com/Mouhammad_Ayoub" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%231DD05D?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
 </div>
