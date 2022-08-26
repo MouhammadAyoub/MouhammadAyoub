@@ -33,7 +33,7 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact" alt="mouhammadayoubtoplanguage" /><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&locale=en" alt="mouhammadayoub" /></p>
+<p align="center"><img align="center" height="30%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact" alt="mouhammadayoubtoplanguage" /><img align="center" height="30%" width="40%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&locale=en" alt="mouhammadayoub" /></p>
 
 ---
 
