@@ -18,11 +18,13 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I seeks a job offer to expand skills and gain valuable experience.
+<img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Enthusiastic, passionate and hardworking Computer Science student.
+- I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I seeks a job offer to expand skills and gain valuable experience.
 
-As a team member, team leader and judge, I participated in multiple robotics competitions which made me passionate about everything related to AI.
+- Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Enthusiastic, passionate and hardworking Computer Science student.
+
+- As a team member, team leader and judge, I participated in multiple robotics competitions which made me passionate about everything related to AI.
 
 ---
 
