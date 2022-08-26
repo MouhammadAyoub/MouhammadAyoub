@@ -13,7 +13,7 @@
     <a href="https://www.hackerrank.com/mouhammad_ayoub" target="_blank"><img src="https://img.shields.io/badge/Hacker Rank-%231BA94C.svg?&style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
     <a href="https://stackoverflow.com/users/19847247/mohammad-ayoub"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
     <a href="https://twitter.com/Mouhammad_Ayoub" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%231DD05D?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
+    <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%23FF00FF?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
 </div>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
