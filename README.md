@@ -20,7 +20,7 @@
 
 <img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I seeks a job offer to expand skills and gain valuable experience.
+- I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I am looking for a job to expand skills and gain valuable experience.
 
 - Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Enthusiastic, passionate and hardworking Computer Science student.
 
