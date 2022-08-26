@@ -16,9 +16,13 @@
     <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%23FF00FF?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
 </div>
 
-# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'am
+I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I seeks a job offer to expand skills and gain valuable experience.
+
+Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Enthusiastic, passionate and hardworking Computer Science student.
+
+As a team member, team leader and judge, I participated in multiple robotics competitions which made me passionate about everything related to AI.
 
 ---
 
