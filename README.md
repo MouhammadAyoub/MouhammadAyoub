@@ -16,6 +16,8 @@
     <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%23FF00FF?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
 </div>
 
+<!--![Visitor Count](https://profile-counter.glitch.me/MouhammadAyoub/count.svg)-->
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
