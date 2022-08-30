@@ -1,4 +1,10 @@
 <div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/MouhammadAyoub/count.svg)
+    
+</div>
+
+<div align="center">
     <img src="GitHub.png" height="200" />
 </div>
 
@@ -15,8 +21,6 @@
     <a href="https://twitter.com/Mouhammad_Ayoub" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%23FF00FF?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
 </div>
-
-<!--![Visitor Count](https://profile-counter.glitch.me/MouhammadAyoub/count.svg)-->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
