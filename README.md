@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mouhammad-ayoub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/mohammadayoubdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.instagram.com/mohammad._ayoub" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://dev.to/mouhammadayoub" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
     <a href="https://www.hackerrank.com/mouhammad_ayoub" target="_blank"><img src="https://img.shields.io/badge/Hacker Rank-%231BA94C.svg?&style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
     <a href="https://stackoverflow.com/users/19847247/mohammad-ayoub"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
