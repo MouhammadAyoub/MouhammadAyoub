@@ -26,11 +26,15 @@
 
 <img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<br/>
+
 - I received my Bachelor's degree in Computer Science and am currently working towards completing my Master's degree 🎓.
 
 - In addition to my studies, I have been a robotics instructor for the past three years and am now focusing on developing my skills as a full-stack developer 💻.
 
 - I have a strong interest in artificial intelligence and am always eager to learn more about this exciting field 🤖.
+
+<br/>
 
 ---
 
@@ -45,7 +49,11 @@
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+<!-- HTML Comment -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+<!-- HTML Comment -->
 
 ---
 
