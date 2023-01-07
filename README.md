@@ -26,11 +26,11 @@
 
 <img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- I never miss an opportunity to learn and discover new areas that enrich my knowledge. Currently, I am looking for a job to expand skills and gain valuable experience.
+- 🎓 I received my Bachelor's degree in Computer Science and am currently working towards completing my Master's degree.
 
-- Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Enthusiastic, passionate and hardworking Computer Science student.
+- 💻 In addition to my studies, I have been a robotics instructor for the past three years and am now focusing on developing my skills as a full-stack developer.
 
-- As a team member, team leader and judge, I participated in multiple robotics competitions which made me passionate about everything related to AI.
+- 🤖 I have a strong interest in artificial intelligence and am always eager to learn more about this exciting field.
 
 ---
 
