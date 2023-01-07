@@ -26,11 +26,11 @@
 
 <img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 I received my Bachelor's degree in Computer Science and am currently working towards completing my Master's degree.
+- I received my Bachelor's degree in Computer Science and am currently working towards completing my Master's degree 🎓.
 
-- 💻 In addition to my studies, I have been a robotics instructor for the past three years and am now focusing on developing my skills as a full-stack developer.
+- In addition to my studies, I have been a robotics instructor for the past three years and am now focusing on developing my skills as a full-stack developer 💻.
 
-- 🤖 I have a strong interest in artificial intelligence and am always eager to learn more about this exciting field.
+- I have a strong interest in artificial intelligence and am always eager to learn more about this exciting field 🤖.
 
 ---
 
