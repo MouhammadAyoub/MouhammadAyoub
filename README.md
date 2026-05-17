@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/MouhammadAyoub/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=MouhammadAyoub&color=6FDA44&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
