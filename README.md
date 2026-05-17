@@ -1,69 +1,155 @@
-<div align="center">
+﻿<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/MouhammadAyoub/count.svg)
-    
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Ayoub&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Multi-Domain%20Tech%20Explorer&descAlignY=56&descAlign=50" width="100%"/>
 
 <div align="center">
-    <img src="GitHub.png" height="200" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=760&height=60&lines=Hey+I'm+Mohammad+Ayoub;AI+Engineer+%7C+Multi-Domain+Explorer;Robotics+to+Mobile+to+Web+to+AI;Building+Intelligent+Systems+that+Matter;CS+Graduate+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mohammad;Software+Engineer;Freelancer;Open-Source+Enthusiast" />
-</div>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/mohammad-ayoub-ai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/mohammad._ayoub" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://dev.to/mouhammadayoub" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-    <a href="https://www.hackerrank.com/mouhammad_ayoub" target="_blank"><img src="https://img.shields.io/badge/Hacker Rank-%231BA94C.svg?&style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-    <a href="https://stackoverflow.com/users/19847247/mohammad-ayoub"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-    <a href="https://twitter.com/Mouhammad_Ayoub" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="mailto:mouhammad.ayoub@outlook.com"><img img src="https://img.shields.io/badge/-Email-%23FF00FF?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Email"/></a>
-</div>
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-<img width="50%" height="240px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br/>
 
-- I received my Bachelor's degree in Computer Science and am currently working towards completing my Master's degree 🎓.
-
-- In addition to my studies, I have been a robotics instructor for the past three years and am now focusing on developing my skills as a full-stack developer 💻.
-
-- I have a strong interest in artificial intelligence and am always eager to learn more about this exciting field 🤖.
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-ayoub-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Mouhammad_Ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/mouhammadayoub" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/>
+  </a>
+  <a href="https://www.hackerrank.com/mouhammad_ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%231BA94C.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19847247/mohammad-ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.instagram.com/mohammad._ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:mouhammad.ayoub@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 <br/>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+## About Me
+
+<img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding illustration" />
+
+I'm a passionate **AI Engineer** with a journey that spans the full spectrum of technology from soldering circuits and programming robots, to designing sleek mobile apps, to building intelligent AI systems.
+
+- **B.Sc. Computer Science** - Pursuing **Master's Degree**
+- **3+ years** as a **Robotics Instructor** inspiring the next generation
+- Specializing in **LLMs, Computer Vision and Deep Learning**
+- Multi-domain background: Robotics to Mobile to Web to UI/UX to Data to **AI**
+- Believer that the best engineers understand the **full stack** from bare metal to the cloud
+- Reach me at **mouhammad.ayoub@outlook.com**
+
+<br/><br/>
 
 ---
 
-<p align="center"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&hide=scss,hack,Batchfile&langs_count=8" alt="mouhammadayoubtoplanguage" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&locale=en" alt="mouhammadayoub" /></p>
+## My Engineering Journey
+
+```
+Robotics and Embedded     ──►   Arduino, C/C++, MATLAB, Embedded Systems
+Mobile Development        ──►   Android Java, Flutter, Xamarin
+UI/UX Design              ──►   Figma, Prototyping, User Research
+Web Development           ──►   React, PHP, .NET, HTML, CSS, JavaScript
+Data and Networking       ──►   SQL, Pandas, Linux Networking, TCP/IP
+AI Engineering  NOW       ──►   Python, PyTorch, TensorFlow, LLMs
+```
+
+> This breadth is my **superpower** — understanding systems end-to-end makes me a sharper AI engineer.
 
 ---
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+## Tech Stack
 
-<!-- HTML Comment -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-<!-- HTML Comment -->
+### AI and Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Design and UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Robotics and Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Databases and Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools and DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
+## GitHub Statistics
 
-<div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8" alt="Top Languages"/>
+</div>
 
+---
 
-Credit: [Mohammad Ayoub](https://github.com/MouhammadAyoub)</br>
-Last Edited on: 30/07/2023
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mouhammadayoub&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## Contributions Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation"/>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>Crafted with passion by <a href="https://github.com/MouhammadAyoub">Mohammad Ayoub</a> - 2026</sub>
+</div>
