@@ -4,10 +4,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Ayoub&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Multi-Domain%20Tech%20Explorer&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Ayoub&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Edge%20AI%20%26%20Offline%20AI%20Developer%20%7C%20Tech%20Lead&descAlignY=57&descAlign=50" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=760&height=60&lines=Hey+I'm+Mohammad+Ayoub;AI+Engineer+%7C+Multi-Domain+Explorer;Robotics+to+Mobile+to+Web+to+AI;Building+Intelligent+Systems+that+Matter;CS+Graduate+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=AI+Systems+Engineer+%7C+Edge+AI+%26+Offline+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor;Building+Private+AI+Systems+that+Work+Fully+Offline" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -42,80 +42,160 @@
 
 ## About Me
 
-<img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding illustration" />
+<img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding" />
 
-I'm a passionate **AI Engineer** with a journey that spans the full spectrum of technology from soldering circuits and programming robots, to designing sleek mobile apps, to building intelligent AI systems.
+I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in building **private, offline AI microservices** and deploying production-ready AI systems across speech, vision, NLP, and edge computing domains.
 
-- **B.Sc. Computer Science** - Pursuing **Master's Degree**
-- **3+ years** as a **Robotics Instructor** inspiring the next generation
-- Specializing in **LLMs, Computer Vision and Deep Learning**
-- Multi-domain background: Robotics to Mobile to Web to UI/UX to Data to **AI**
-- Believer that the best engineers understand the **full stack** from bare metal to the cloud
-- Reach me at **mouhammad.ayoub@outlook.com**
+- **MSc. AI & Machine Learning** — Lebanese University (2022–2024)
+  - Thesis: *Modified Sobol XAI-based Segmentation from High-Resolution Satellite Imagery*
+- **BSc. Computer Science** — Lebanese University (2019–2022)
+- Supervised **10+ AI models** deployed via Docker, gRPC & Kubernetes
+- Led student team to **3rd place at ARC10** with **BaseerAI Smart Glasses** (AI for accessibility)
+- **7+ years** across Robotics, Mobile, Web, Data, and AI domains
+- **Huawei HCIA-AI certified** | Collaborates with CTOs & university research teams
+- Currently building: **Knowledge Graphs · AI Agents · Local Autonomous AI Systems**
+- Preparing to launch a **startup in the AI/software domain**
 
-<br/><br/>
+<br clear="right"/>
+
+---
+
+## What I Specialize In
+
+<table>
+  <tr>
+    <td align="center" width="130"><b>Computer Vision</b></td>
+    <td>Object Detection · Image Segmentation · OCR (VLM-based) · Face Recognition · Super-Resolution · Image Captioning · Image Retrieval · Deepfake Detection & Generation · Explainable AI</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Speech AI</b></td>
+    <td>Speech-to-Text · Text-to-Speech · Voice Cloning · Voice Conversion · Audio Enhancement & Noise Removal · Voice Similarity Search</td>
+  </tr>
+  <tr>
+    <td align="center"><b>NLP & Text AI</b></td>
+    <td>NER (Arabic & English) · Advanced RAG Pipelines · Hybrid Search · Re-Ranking · Translation (100+ languages) · Text Classification · Knowledge Graphs · AI Agents</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Edge AI</b></td>
+    <td>NVIDIA Jetson Orin NX · Raspberry Pi · Offline AI Inference · Embedded AI Deployment · Hardware-Software Integration</td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Deployment</b></td>
+    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Offline Microservices · REST APIs · Microservices Architecture</td>
+  </tr>
+</table>
 
 ---
 
 ## My Engineering Journey
 
 ```
-Robotics and Embedded     ──►   Arduino, C/C++, MATLAB, Embedded Systems
-Mobile Development        ──►   Android Java, Flutter, Xamarin
-UI/UX Design              ──►   Figma, Prototyping, User Research
-Web Development           ──►   React, PHP, .NET, HTML, CSS, JavaScript
-Data and Networking       ──►   SQL, Pandas, Linux Networking, TCP/IP
-AI Engineering  NOW       ──►   Python, PyTorch, TensorFlow, LLMs
+Robotics & Embedded   2019  ──►  Arduino · Raspberry Pi · C/C++ · MATLAB · Sensors
+Mobile Development    2020  ──►  Android (Java) · Xamarin · Flutter · .NET
+UI/UX Design          2021  ──►  Figma · Prototyping · User Research
+Full-Stack Web        2021  ──►  React · Node.js · PHP · ASP.NET Core · MongoDB
+Data & Networking     2022  ──►  Elasticsearch · Neo4j · Airflow · Linux · TCP/IP
+AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · Edge AI · Docker · K8s
 ```
 
-> This breadth is my **superpower** — understanding systems end-to-end makes me a sharper AI engineer.
+> This breadth is my **superpower** — understanding the full stack from silicon to intelligence makes me a sharper AI engineer and a stronger team lead.
 
 ---
 
 ## Tech Stack
 
-### AI and Machine Learning
+### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### AI Deployment & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Design and UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Robotics and Embedded Systems
+### Edge AI & Embedded Systems
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Databases and Cloud
+### Web & Mobile Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases, Search & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Tools and DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>BaseerAI Smart Glasses</h3>
+      <p>AI-powered wearable for visually impaired users. Integrated offline object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at the ARC10 Competition</b> — built in one month.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Edge%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20for%20Good-6FDA44?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Offline AI Microservices Toolkit</h3>
+      <p>Confidential AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection/generation. Fully offline, private, low-latency inference via gRPC and Kubernetes — no cloud dependency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Offline%20AI-EE4C2C?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>XAI Satellite Imagery Segmentation</h3>
+      <p>MSc thesis: adapted Sobol sensitivity analysis for pixel-level segmentation explainability in high-resolution satellite imagery. Spatial heatmaps, entropy-based analysis, LaMa inpainting validation on FloodNet. Deployed as a Dockerized gRPC server.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Vision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XAI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data & Insight Extraction Pipeline</h3>
+      <p>End-to-end data pipelines for real-time extraction, full-text search, and graph-based insight discovery. Built with Apache Airflow orchestration, Elasticsearch indexing, Neo4j and ArangoDB for knowledge graph construction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -140,7 +220,7 @@ AI Engineering  NOW       ──►   Python, PyTorch, TensorFlow, LLMs
 
 ---
 
-## Contributions Graph
+## Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation"/>
@@ -151,5 +231,5 @@ AI Engineering  NOW       ──►   Python, PyTorch, TensorFlow, LLMs
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/MouhammadAyoub">Mohammad Ayoub</a> - 2026</sub>
+  <sub>Crafted with passion by <a href="https://github.com/MouhammadAyoub">Mohammad Ayoub</a> — Beirut, Lebanon</sub>
 </div>
