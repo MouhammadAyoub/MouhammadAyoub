@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Ayoub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<h3 align="center">AI Systems Engineer &nbsp;|&nbsp; Applied AI &amp; Edge AI Developer &nbsp;|&nbsp; Tech Lead</h3>
-
 <br/>
 
 <div align="center">
@@ -207,12 +205,13 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8" height="170" alt="Top Languages"/>
 </div>
 
 ---
@@ -225,7 +224,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 
 ---
 
-## Look at this snake devouring all my commits — apparently it's hungrier than I am after a debugging session 🐍
+## 🐍 This snake runs on commits, not coffee
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MouhammadAyoub/MouhammadAyoub/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
