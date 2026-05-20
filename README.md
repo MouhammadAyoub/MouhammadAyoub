@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MouhammadAyoub&color=6FDA44&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -50,9 +50,9 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
   - Thesis: *Modified Sobol XAI-based Segmentation from High-Resolution Satellite Imagery*
 - **BSc. Computer Science** — Lebanese University (2019–2022)
 - Supervised **10+ AI models** deployed via Docker, gRPC & Kubernetes
-- Led student team to **3rd place at ARC10** with **BaseerAI Smart Glasses** (AI for accessibility)
+- Led student team to **3rd place at ARC10** with **BaseerAI Smart Glasses**
 - **7+ years** across Robotics, Mobile, Web, Data, and AI domains
-- **Huawei HCIA-AI certified** | Collaborates with CTOs & university research teams
+- **Huawei HCIA-AI certified** — Collaborates with CTOs & university research teams
 - Currently building: **Knowledge Graphs · AI Agents · Local Autonomous AI Systems**
 - Preparing to launch a **startup in the AI/software domain**
 
@@ -64,7 +64,7 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
 
 <table>
   <tr>
-    <td align="center" width="130"><b>Computer Vision</b></td>
+    <td align="center" width="140"><b>Computer Vision</b></td>
     <td>Object Detection · Image Segmentation · OCR (VLM-based) · Face Recognition · Super-Resolution · Image Captioning · Image Retrieval · Deepfake Detection & Generation · Explainable AI</td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
   </tr>
   <tr>
     <td align="center"><b>AI Deployment</b></td>
-    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Offline Microservices · REST APIs · Microservices Architecture</td>
+    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Offline Microservices · REST APIs</td>
   </tr>
 </table>
 
@@ -157,7 +157,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
   <tr>
     <td width="50%" valign="top">
       <h3>BaseerAI Smart Glasses</h3>
-      <p>AI-powered wearable for visually impaired users. Integrated offline object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at the ARC10 Competition</b> — built in one month.</p>
+      <p>AI-powered wearable for visually impaired users. Integrated offline object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at ARC10</b> — built in one month.</p>
       <p>
         <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Edge%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -166,19 +166,18 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
     </td>
     <td width="50%" valign="top">
       <h3>Offline AI Microservices Toolkit</h3>
-      <p>Confidential AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection/generation. Fully offline, private, low-latency inference via gRPC and Kubernetes — no cloud dependency.</p>
+      <p>Confidential AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection. Fully offline, private, low-latency inference via gRPC and Kubernetes — zero cloud dependency.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
         <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Offline%20AI-EE4C2C?style=flat-square&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>XAI Satellite Imagery Segmentation</h3>
-      <p>MSc thesis: adapted Sobol sensitivity analysis for pixel-level segmentation explainability in high-resolution satellite imagery. Spatial heatmaps, entropy-based analysis, LaMa inpainting validation on FloodNet. Deployed as a Dockerized gRPC server.</p>
+      <p>MSc thesis: adapted Sobol sensitivity analysis for pixel-level segmentation explainability in high-resolution satellite imagery. Spatial heatmaps, entropy analysis, LaMa inpainting on FloodNet dataset. Deployed as Dockerized gRPC server.</p>
       <p>
         <img src="https://img.shields.io/badge/Computer%20Vision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/XAI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -187,7 +186,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
     </td>
     <td width="50%" valign="top">
       <h3>Data & Insight Extraction Pipeline</h3>
-      <p>End-to-end data pipelines for real-time extraction, full-text search, and graph-based insight discovery. Built with Apache Airflow orchestration, Elasticsearch indexing, Neo4j and ArangoDB for knowledge graph construction.</p>
+      <p>End-to-end pipelines for real-time data extraction, full-text search, and graph-based insight discovery using Apache Airflow, Elasticsearch, Neo4j, and ArangoDB.</p>
       <p>
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
