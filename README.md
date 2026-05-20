@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=Hi+there%2C+I'm+Mohammad+Ayoub!;AI+Systems+Engineer+%7C+Applied+AI+%26+Edge+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=Hi+there%2C+I'm+Mohammad+Ayoub!;AI+Engineer+%7C+Production-Grade+AI+Systems;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+XAI;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -46,17 +46,15 @@
 
 <img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding" />
 
-I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in building **AI microservices** and deploying production-ready AI systems across speech, vision, NLP, and edge computing domains.
+I'm an **AI Engineer** based in **Beirut, Lebanon**, specializing in **production-grade AI systems** across **computer vision, NLP, speech AI, and robotics**. I lead engineering teams and collaborate with CTOs and researchers to design and deploy scalable AI solutions using **FastAPI, Docker, gRPC, and Kubernetes**.
 
 - **MSc. AI & Machine Learning** — Lebanese University (2022–2024)
-  - Thesis: *Modified Sobol XAI-based Segmentation from High-Resolution Satellite Imagery*
 - **BSc. Computer Science** — Lebanese University (2019–2022)
-- Supervised **10+ AI models** deployed via Docker, gRPC & Kubernetes
-- Led student team to **3rd place at ARC10** with **BaseerAI Smart Glasses**
-- **7+ years** across Robotics, Mobile, Web, Data, and AI domains
-- **Huawei HCIA-AI certified** — Collaborates with CTOs & university research teams
-- Currently building: **Knowledge Graphs · AI Agents · Local Autonomous AI Systems**
-- Preparing to launch a **startup in the AI/software domain**
+- Deployed **10+ AI models** across vision, NLP, and speech domains
+- Led student team to **3rd place** in a national AI competition with **BaseerAI Smart Glasses**
+- **Robotics Instructor since 2019** at Kalimat Association — mentoring the next generation
+- **Huawei HCIA-AI v3.0 certified** (2022)
+- Strong focus on **real-time inference, system architecture, and end-to-end AI deployment**
 
 <br clear="right"/>
 
@@ -66,24 +64,24 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Computer Vision</b></td>
-    <td>Object Detection · Image Segmentation · OCR (VLM-based) · Face Recognition · Super-Resolution · Image Captioning · Image Retrieval · Deepfake Detection & Generation · Explainable AI</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Speech AI</b></td>
-    <td>Speech-to-Text · Text-to-Speech · Voice Cloning · Voice Conversion · Audio Enhancement & Noise Removal · Voice Similarity Search</td>
-  </tr>
-  <tr>
-    <td align="center"><b>NLP & Text AI</b></td>
-    <td>NER (Arabic & English) · Advanced RAG Pipelines · Hybrid Search · Re-Ranking · Translation (100+ languages) · Text Classification · Knowledge Graphs · AI Agents</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Edge AI</b></td>
-    <td>Raspberry Pi · Edge Devices · On-Device AI Inference · Embedded AI Deployment · Hardware-Software Integration</td>
+    <td align="center" width="150"><b>AI / ML</b></td>
+    <td>Computer Vision · NLP · Speech AI · OCR · Face Recognition · RAG · Explainable AI</td>
   </tr>
   <tr>
     <td align="center"><b>AI Deployment</b></td>
-    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Local AI Systems · REST APIs</td>
+    <td>FastAPI · Docker · gRPC · Kubernetes · REST APIs · Model Serving · Real-Time Inference</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Edge & Robotics</b></td>
+    <td>Jetson · Raspberry Pi · Arduino · Hardware-Software Integration · Embedded AI</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Systems</b></td>
+    <td>Elasticsearch · Apache Airflow · Neo4j · ArangoDB · MongoDB · MySQL</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web & Software</b></td>
+    <td>React · Node.js · ASP.NET · TypeScript · JavaScript · MongoDB</td>
   </tr>
 </table>
 
@@ -92,12 +90,12 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
 ## My Engineering Journey
 
 ```
-Robotics & Embedded   2019  ──►  Arduino · Raspberry Pi · C/C++ · MATLAB · Sensors
-Mobile Development    2020  ──►  Android (Java) · Xamarin · Flutter · .NET
-UI/UX Design          2021  ──►  Figma · Prototyping · User Research
-Full-Stack Web        2021  ──►  React · Node.js · PHP · ASP.NET Core · MongoDB
-Data & Networking     2022  ──►  Elasticsearch · Neo4j · Airflow · Linux · TCP/IP
-AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · Edge AI · Docker · K8s
+Robotics & Embedded   2019 → Present   ──►  Arduino · Raspberry Pi · Python  (Kalimat Assoc.)
+Mobile & .NET         2020 → 2021      ──►  Xamarin · ASP.NET Core · Azure   (Scinops)
+Full-Stack Web        2022 → 2023      ──►  React · Node.js · MongoDB        (Salem Group)
+AI Engineering  NOW   2023 → Present   ──►  CV · NLP · Speech · Docker · K8s · FastAPI
+AI Thesis (XAI)       2024             ──►  Sobol XAI · Satellite Imagery    (GEOAI)
+AI for Good           2025             ──►  BaseerAI Glasses · 3rd Place     (Haret Hreik)
 ```
 
 > This breadth is my **superpower** — understanding the full stack from silicon to intelligence makes me a sharper AI engineer and a stronger team lead.
@@ -115,37 +113,33 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### AI Deployment & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Edge AI & Embedded Systems
+### Edge & Robotics
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Web & Mobile Development
+### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases, Search & Data
+### Databases & Data Systems
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -161,7 +155,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
   <tr>
     <td width="50%" valign="top">
       <h3>BaseerAI Smart Glasses</h3>
-      <p>AI-powered wearable for visually impaired users. Integrated object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at ARC10</b> — built in one month.</p>
+      <p>AI-powered wearable for visually impaired users. Integrated object detection, OCR, face recognition, and real-time text-to-speech on Raspberry Pi. Led student team to <b>3rd place</b> in a national AI competition.</p>
       <p>
         <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Edge%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -170,7 +164,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
     </td>
     <td width="50%" valign="top">
       <h3>AI Microservices Toolkit</h3>
-      <p>AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection. Low-latency inference via gRPC and Kubernetes — built for production-grade, on-premise deployment.</p>
+      <p>Multi-modal AI platform spanning speech, text, vision, face recognition, RAG, and deepfake detection. Built with Docker, gRPC, Kubernetes, and Python model-serving APIs for scalable real-time inference.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -180,8 +174,8 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>XAI Satellite Imagery Segmentation</h3>
-      <p>MSc thesis: adapted Sobol sensitivity analysis for pixel-level segmentation explainability in high-resolution satellite imagery. Spatial heatmaps, entropy analysis, LaMa inpainting on FloodNet dataset. Deployed as Dockerized gRPC server.</p>
+      <h3>XAI Satellite Imagery (MSc Thesis)</h3>
+      <p>Built an Explainable AI framework adapting Sobol sensitivity analysis for pixel-level segmentation of high-resolution satellite imagery. Used entropy filtering and LaMa inpainting validation on the FloodNet dataset.</p>
       <p>
         <img src="https://img.shields.io/badge/Computer%20Vision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/XAI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -189,8 +183,8 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Data & Insight Extraction Pipeline</h3>
-      <p>End-to-end pipelines for real-time data extraction, full-text search, and graph-based insight discovery using Apache Airflow, Elasticsearch, Neo4j, and ArangoDB.</p>
+      <h3>Data Preprocessing Pipeline</h3>
+      <p>End-to-end pipelines for extracting insights from heterogeneous data sources. Orchestrated with Apache Airflow, indexed via Elasticsearch, and modeled in Neo4j and ArangoDB for graph-based discovery.</p>
       <p>
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
@@ -198,21 +192,26 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Telegram Monitoring System</h3>
+      <p>Real-time listener for subscribed Telegram channels — collects, filters, and monitors topics of interest such as AI news, enabling automated tracking and downstream analysis pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Real--Time-EE4C2C?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Encrypted File Sharing System (EFSS)</h3>
+      <p>Secure file transfer system with authentication, encryption, and audited APIs. Built with WPF on the client side and Python + ASP.NET on the backend for cross-platform office workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 </table>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8" height="170" alt="Top Languages"/>
-</div>
 
 ---
 
@@ -227,7 +226,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 ## 🐍 This snake runs on commits, not coffee
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MouhammadAyoub/MouhammadAyoub/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhammadayoub&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
 </div>
 
 ---
