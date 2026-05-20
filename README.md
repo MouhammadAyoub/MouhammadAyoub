@@ -4,10 +4,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Ayoub&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Edge%20AI%20%26%20Offline%20AI%20Developer%20%7C%20Tech%20Lead&descAlignY=57&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Ayoub&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Applied%20AI%20%26%20Edge%20AI%20Developer%20%7C%20Tech%20Lead&descAlignY=57&descAlign=50" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=AI+Systems+Engineer+%7C+Edge+AI+%26+Offline+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor;Building+Private+AI+Systems+that+Work+Fully+Offline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=Hi+there%2C+I'm+Mohammad+Ayoub;AI+Systems+Engineer+%7C+Applied+AI+%26+Edge+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 
 <img width="42%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding" />
 
-I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in building **private, offline AI microservices** and deploying production-ready AI systems across speech, vision, NLP, and edge computing domains.
+I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in building **AI microservices** and deploying production-ready AI systems across speech, vision, NLP, and edge computing domains.
 
 - **MSc. AI & Machine Learning** — Lebanese University (2022–2024)
   - Thesis: *Modified Sobol XAI-based Segmentation from High-Resolution Satellite Imagery*
@@ -77,11 +77,11 @@ I am an **AI Systems Engineer** based in **Beirut, Lebanon**, specializing in bu
   </tr>
   <tr>
     <td align="center"><b>Edge AI</b></td>
-    <td>NVIDIA Jetson Orin NX · Raspberry Pi · Offline AI Inference · Embedded AI Deployment · Hardware-Software Integration</td>
+    <td>Raspberry Pi · Edge Devices · On-Device AI Inference · Embedded AI Deployment · Hardware-Software Integration</td>
   </tr>
   <tr>
     <td align="center"><b>AI Deployment</b></td>
-    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Offline Microservices · REST APIs</td>
+    <td>Docker · gRPC · Kubernetes · Python Model-Serving APIs · Real-Time Inference · Local AI Systems · REST APIs</td>
   </tr>
 </table>
 
@@ -122,7 +122,6 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 
 ### Edge AI & Embedded Systems
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -165,8 +164,8 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Offline AI Microservices Toolkit</h3>
-      <p>Confidential AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection. Fully offline, private, low-latency inference via gRPC and Kubernetes — zero cloud dependency.</p>
+      <h3>AI Microservices Toolkit</h3>
+      <p>AI platform with 10+ Dockerized models covering Speech AI, Computer Vision, NLP, Face AI, and Deepfake detection. Low-latency inference via gRPC and Kubernetes — built for production-grade, on-premise deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -222,7 +221,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 ## Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhammadayoub&theme=radical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
