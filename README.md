@@ -4,10 +4,14 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Ayoub&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Applied%20AI%20%26%20Edge%20AI%20Developer%20%7C%20Tech%20Lead&descAlignY=57&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Ayoub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<h3 align="center">AI Systems Engineer &nbsp;|&nbsp; Applied AI &amp; Edge AI Developer &nbsp;|&nbsp; Tech Lead</h3>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=Hi+there%2C+I'm+Mohammad+Ayoub;AI+Systems+Engineer+%7C+Applied+AI+%26+Edge+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=6FDA44&center=true&vCenter=true&width=820&height=60&lines=Hi+there%2C+I'm+Mohammad+Ayoub!;AI+Systems+Engineer+%7C+Applied+AI+%26+Edge+AI+Developer;Computer+Vision+%7C+NLP+%7C+Speech+AI+%7C+RAG+%7C+Knowledge+Graphs;10%2B+AI+Models+Deployed+via+Docker+%26+Kubernetes;MSc+AI+%26+ML+%7C+Robotics+Instructor+%7C+Project+Supervisor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -147,6 +151,9 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 ---
 
@@ -156,7 +163,7 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
   <tr>
     <td width="50%" valign="top">
       <h3>BaseerAI Smart Glasses</h3>
-      <p>AI-powered wearable for visually impaired users. Integrated offline object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at ARC10</b> — built in one month.</p>
+      <p>AI-powered wearable for visually impaired users. Integrated object detection, face recognition, OCR, and real-time TTS on Raspberry Pi. Led a student team with zero prior AI experience to <b>3rd place at ARC10</b> — built in one month.</p>
       <p>
         <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Edge%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -200,12 +207,12 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mouhammadayoub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=mouhammadayoub&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhammadayoub&layout=compact&theme=radical&hide_border=true&hide=scss,hack,batchfile&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 ---
@@ -218,10 +225,10 @@ AI Engineering  NOW   2022+ ──►  CV · NLP · Speech AI · RAG · LLMs · 
 
 ---
 
-## Contributions
+## Look at this snake devouring all my commits — apparently it's hungrier than I am after a debugging session 🐍
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhammadayoub&theme=radical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/MouhammadAyoub/MouhammadAyoub/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
 </div>
 
 ---
