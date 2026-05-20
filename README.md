@@ -223,14 +223,6 @@ AI for Good           2025             ──►  BaseerAI Glasses · 3rd Place 
 
 ---
 
-## 🐍 This snake runs on commits, not coffee
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhammadayoub&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">

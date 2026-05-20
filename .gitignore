@@ -1,0 +1,14 @@
+# Claude Code local settings (do not commit)
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
